@@ -1067,7 +1067,7 @@ async function genFC(cid) {
       method:'POST',
       headers:{'Content-Type':'application/json','x-api-key':S.settings.apiKey,'anthropic-version':'2023-06-01','anthropic-dangerous-direct-browser-access':'true'},
       body:JSON.stringify({
-        model:'claude-sonnet-4-20250514',max_tokens:1500,
+        model:'claude-sonnet-4-6',max_tokens:1500,
         messages:[{role:'user',content:`Tu es un assistant pédagogique expert en écriture cinématographique.
 
 À partir du cours ci-dessous, génère entre 5 et 8 flashcards de révision pertinentes.
