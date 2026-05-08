@@ -789,7 +789,10 @@ function md(text) {
   return html;
 }
 function inl(t) {
-  return t.replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/\*(.+?)\*/g,'<em>$1</em>');
+  return t
+    .replace(/!\[([^\]]*)\]\(([^)]+)\)/g,'<img src="$2" alt="$1" style="max-width:100%;border-radius:2px;margin:.5rem 0;display:block">')
+    .replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')
+    .replace(/\*(.+?)\*/g,'<em>$1</em>');
 }
 
 // ═══════════════════════════════════════════════
@@ -1101,7 +1104,7 @@ async function genSummary(cid) {
       method:'POST',
       headers:{'Content-Type':'application/json','x-api-key':S.settings.apiKey,'anthropic-version':'2023-06-01','anthropic-dangerous-direct-browser-access':'true'},
       body:JSON.stringify({
-        model:'claude-sonnet-4-20250514',max_tokens:800,
+        model:'claude-sonnet-4-6',max_tokens:800,
         messages:[{role:'user',content:`Tu es un assistant pédagogique expert en écriture cinématographique.
 
 Génère un résumé concis et structuré du cours ci-dessous. 4 à 6 points clés, formulés clairement. Utilise #### pour les titres si pertinent.
