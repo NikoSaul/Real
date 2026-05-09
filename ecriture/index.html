@@ -47,6 +47,7 @@ body::after{content:'';position:fixed;inset:0;pointer-events:none;z-index:9999;o
 .cat-card::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;opacity:0;transition:opacity .25s}
 .cat-card[data-c="personnage"]::before{background:#8b5c3c}
 .cat-card[data-c="structure"]::before{background:#3c5e8b}
+.cat-card[data-c="realisateur"]::before{background:#3c7c0e}
 .cat-card[data-c="exercices"]::before{background:#3c7a5e}
 .cat-card:hover{background:var(--surface2)}.cat-card:hover::before{opacity:1}
 .cat-idx{font-family:var(--fm);font-size:10px;color:var(--text-dim);letter-spacing:.2em;margin-bottom:1.5rem}
@@ -78,6 +79,7 @@ body::after{content:'';position:fixed;inset:0;pointer-events:none;z-index:9999;o
 .ctag{display:inline-block;padding:2px 8px;font-size:9px;letter-spacing:.15em;text-transform:uppercase;border-radius:1px}
 .ctag.personnage{background:rgba(139,92,60,.15);color:#c4845a;border:1px solid rgba(139,92,60,.25)}
 .ctag.structure{background:rgba(60,94,139,.15);color:#6e9bc4;border:1px solid rgba(60,94,139,.25)}
+.ctag.realisateur{background:rgba(60,100,30,.15);color:#6ec4a0;border:1px solid rgba(60,122,94,.25)}
 .ctag.exercices{background:rgba(60,122,94,.15);color:#6ec4a0;border:1px solid rgba(60,122,94,.25)}
 
 /* TABS */
@@ -197,7 +199,7 @@ body::after{content:'';position:fixed;inset:0;pointer-events:none;z-index:9999;o
       <div class="home-header">
         <div class="home-eyebrow">Notes de cours</div>
         <h1 class="home-title">Écri<span>ture</span></h1>
-        <div class="home-sub">Personnage · Structure · Exercices</div>
+        <div class="home-sub">Personnage · Structure · Realisateur · Exercices</div>
       </div>
       <div class="cat-grid" id="cat-grid"></div>
     </div>
@@ -250,6 +252,7 @@ body::after{content:'';position:fixed;inset:0;pointer-events:none;z-index:9999;o
         <select class="fsel" id="edit-cat">
           <option value="personnage">Personnage</option>
           <option value="structure">Structure</option>
+          <option value="realisateur">Realisateur</option>
           <option value="exercices">Exercices</option>
         </select>
       </div>
@@ -763,7 +766,7 @@ function goStudy() {
   sv('study'); renderStudy();
 }
 
-function catLabel(c) { return {personnage:'Personnage',structure:'Structure',exercices:'Exercices'}[c]||c; }
+function catLabel(c) { return {personnage:'Personnage',structure:'Structure',realisateur:'Realisateur',exercices:'Exercices'}[c]||c; }
 
 function updateBC() {
   const el = document.getElementById('breadcrumb');
@@ -817,7 +820,7 @@ function inl(t) {
 // ═══════════════════════════════════════════════
 function renderHome() {
   const descs = {personnage:'Psychologie, trauma, défenses, catharsis',structure:'Triangle, lignes d\'action, construction',exercices:'Scènes écrites, réalisations pratiques'};
-  document.getElementById('cat-grid').innerHTML = ['personnage','structure','exercices'].map((cat,i)=>{
+  document.getElementById('cat-grid').innerHTML = ['personnage','structure','realisateur','exercices'].map((cat,i)=>{
     const cnt = byCat(cat).length;
     return `<div class="cat-card" data-c="${cat}" onclick="goCategory('${cat}')">
       <div class="cat-idx">0${i+1}</div>
