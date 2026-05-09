@@ -1,0 +1,167 @@
+{
+  "courses": [
+    {
+      "id": "p1",
+      "title": "La psychologie des personnages",
+      "category": "personnage",
+      "content": "### La psychologie des personnages\n\n*John York, 'Into the woods' : Les personnages entreprennent un voyage pour reconnaître et assimiler les traumatismes de leur passé. En affrontant et acceptant la cause de leurs traumatismes, ils peuvent enfin aller de l'avant.*\n\nÉcrire un personnage principal avec des faiblesses et des traumatismes, et des secondaires qui servent à affaiblir ses défenses pour provoquer une **catharsis** au personnage et à l'audience.\n\n#### La Faiblesse\n\nQuand le personnage n'a pas conscience de ses propres faiblesses, mais que le spectateur, lui, les voit.\n\n**Exemple :** Il a du mal à s'ouvrir aux autres. *\"La conviction que sortir de sa zone de confort entraînerait une souffrance émotionnelle.\"*\n\n#### Le Trauma\n\nRépond directement à la faiblesse.\n\n**Exemple :** Abusé par son père.\n\n#### Le Système de Défense\n\nLa part qu'on voit en premier chez un personnage. Il peut changer de sujet quand c'est trop profond, contre-attaquer sur un sujet qui touche l'autre (sans le savoir forcément). Ce système finira par disparaître à la fin.\n\n#### Vaincre les Défenses\n\nUn personnage qui croit en lui force l'autre à sortir de sa zone de confort. Les personnages secondaires l'aident ou pas à voir ses mécanismes.\n\n**Exemple de dialogue :**\n\n> Femme : \"Tu veux emménager avec moi ?\"\n> Homme : \"Tu vas te rendre compte de mes défauts... et j'ai un taf là...\"\n> Femme : \"Tu as peur que je ne t'aime pas en retour. Et tu sais quoi, j'ai peur aussi. Fuck it, je tente le coup — au moins je suis honnête avec toi.\"\n\n#### La Régression\n\nRetourner à un état de bien-être facile où on n'a pas besoin de bouger. Exemple : retourner chez ses parents, retrouver son groupe d'amis.\n\n#### Le Déni\n\nLe personnage refuse de voir ce qu'il devrait voir.\n\n> \"T'es mon meilleur pote alors prends-le pas mal, mais si dans 20 ans tu vis encore ici et tu continues de bosser sur les chantiers, je te tue. Tu as X compétence entre les mains. Ça serait une insulte si t'étais encore là dans 20 ans.\"\n\n#### La Catharsis\n\nPurification et libération des sentiments. Il détruit tous les murs. **Vu qu'on a vécu le chemin avec lui, le public vit aussi une catharsis dramatique.**",
+      "summary": "",
+      "flashcards": [],
+      "createdAt": "2025-01-01",
+      "updatedAt": "2025-01-01"
+    },
+    {
+      "id": "p2",
+      "title": "Créer de la lumière dans l'obscurité",
+      "category": "personnage",
+      "content": "### Créer de la lumière dans l'obscurité\n\n*\"L'évolution d'un personnage influence non seulement la structure, mais aussi le thème de l'histoire.\"*\n\n**Thème de Seven :** Le monde est rempli de douleur et de personnages effroyables, mais il est aussi bon, et vaut la peine de se battre.\n\n#### Les Croyances du Protagoniste\n\nFreeman est devenu cynique. Repoussé par l'apathie qu'il voit chaque jour, il croit ne plus pouvoir se battre. Il se laisse gagner par *l'apathie (incapacité d'être ému ou de réagir)*. C'est son mensonge.\n\nIl a une expérience passée qui l'a façonné ainsi. On appelle ça **le personnage Fantôme**.\n\n#### Le Personnage Fantôme\n\nUn personnage hanté par son passé. Une blessure qui le poursuit.\n\n*\"Les blessures sont souvent gardées secrètes, car il y a un mensonge attaché. Un mensonge auquel croit le personnage à propos de lui-même.\"*\n\nFreeman a une blessure liée à son enfant jamais né. Son fantôme. *\"Comment vouloir un enfant dans un monde comme celui-ci ?\"* — son conflit intérieur est lié au thème.\n\nLe mensonge dans son fantôme :\n\n> \"Je suis certain d'avoir pris la bonne décision. Mais il n'y a pas un jour qui passe sans que je me demande ce qu'il se serait passé si j'avais fait un choix différent.\"\n\nLa contradiction de ses dialogues montre à quel point il lutte contre ses croyances.\n\n#### Le Partenaire\n\nBrad Pitt et Freeman ne s'entendent pas. Mais ce n'est pas juste une question d'attitude : **ils ont des valeurs différentes.** Freeman part. Pitt arrive. Doucement, Pitt le fait renouer avec sa passion.\n\n**Dans l'acte 2, Pitt lui met ses mensonges en face :**\n\n> \"Tu dis que les gens s'en foutent. Je ne pense pas que tu partes pour ça. Tu veux croire à ça parce que tu pars.\"\n\nFreeman casse le symbole de son apathie : le métronome qui bloque le temps.\n\n#### L'Antagoniste\n\n**Les croyances de l'antagoniste sont une version extrême de Freeman.** Ils pensent pareil de plein de façons.\n\n> \"Nous voyons un péché capital à chaque coin de rue et nous le tolérons. Parce que c'est courant.\"\n\nCela permet de réévaluer leurs croyances. Dans l'acte 3 : **la bataille finale**.\n\n#### La Bataille Finale\n\nFreeman, malgré tout, finit par dire : *\"Je serai là.\"* Ses croyances ont changé. Pas au point de devenir optimiste total, mais au moins il ne cèdera plus à l'apathie.\n\n**Le thème est enfin exprimé :**\n\n> \"Le monde est beau, et vaut la peine de se battre pour lui. Je suis d'accord avec la deuxième partie.\"\n\n#### Conclusion\n\nUne idée précise de son thème guide les décisions de l'histoire. Quand personnages, évolutions et contexte servent le thème, cela crée une cohérence qui rend le récit puissant.",
+      "summary": "",
+      "flashcards": [],
+      "createdAt": "2025-01-01",
+      "updatedAt": "2025-01-01"
+    },
+    {
+      "id": "s1",
+      "title": "La règle du mais / donc",
+      "category": "structure",
+      "content": "### La règle du mais / donc\n\n*Tirée du livre \"Anatomie d'un scénario\"*\n\nDans une histoire, on raconte avec des **Mais... Donc...** plutôt que des \"et puis\". Ça rajoute de l'impact et de la logique causale à la narration.\n\n---\n\n**Le public aime 2 choses :**\n- La partie **émotionnelle** : revivre ou vivre une vie\n- La partie **intellectuelle** : chercher à comprendre le puzzle\n\nToute bonne histoire doit être composée de ces 2 parties.\n\n---\n\n**Mauvais exemple :**\nIl entre dans la pièce *et puis* il voit un corps *et puis* il appelle la police *et puis* la police arrive.\n\n**Bon exemple :**\nIl entre dans la pièce. ***Mais*** il voit un corps. ***Donc*** il appelle la police. ***Mais*** la police ne le croit pas. ***Donc*** il doit trouver le vrai coupable seul.\n\nChaque \"mais\" crée un obstacle. Chaque \"donc\" crée une conséquence. C'est ce qui donne une impression de logique et d'enjeux.",
+      "summary": "",
+      "flashcards": [],
+      "createdAt": "2025-01-01",
+      "updatedAt": "2025-01-01"
+    },
+    {
+      "id": "s2",
+      "title": "Gone Girl — Lignes d'action et triangle de scène",
+      "category": "structure",
+      "content": "### Gone Girl — Lignes d'action et triangle de scène\n\n#### Lignes d'Action Efficaces\n\nLes lignes d'action de Gillian Flynn sont **descriptives, concises et pleines de personnalité.**\n\n> \"Desi doesn't invite him in. Strange charge in air.\"\n> \"Desi gives him nothing.\"\n> \"Ugly Pause.\"\n> \"Nick shakes his head: bad news.\"\n\nOn se représente directement ce que ça veut dire. Pertinent, efficace.\n\n#### La Dernière Ligne est le Sujet de la Scène\n\n*\"Le début de la scène montre le sujet général. La scène se concentre ensuite sur un seul point, se terminant avec la ligne la plus importante.\"*\n\nCe principe forme un **triangle** : ouverture large, resserrement progressif, fermeture sur le point le plus fort.\n\n**Appliqué à Gone Girl :**\n\nOuverture : *\"Nick, votre femme était-elle enceinte ?\"*\n\nDéveloppement : Il a des problèmes d'argent. Il a augmenté l'assurance-vie d'Amy à 1,2 million.\n\nFermeture :\n> Boney : \"Elle est enceinte.\"\n> Nick : \"Je crois que j'ai besoin d'un avocat.\"\n\nLe triangle représente une corde qu'on mettrait autour du cou de Nick, de plus en plus serrée. Il se finit sur un changement important : Nick réalise qu'il est dans la merde.\n\n#### Personnage de Sous-Intrigue\n\n*\"Le personnage de sous-intrigue offre une opportunité supplémentaire de définir le héros par comparaison et de faire avancer l'histoire.\"*\n\nDans Gone Girl, l'ex-mari d'Amy a été confronté aux mêmes problèmes que Nick. Il révèle :\n- Amy a un historique de manipulation (viol vs meurtre)\n- *\"Amy s'en est pris à Tommy quand il a cessé d'essayer d'être l'homme qu'elle voulait qu'il soit\"*\n\nLeçon pour Nick : il va devenir l'homme qu'elle veut qu'il soit. Flynn utilise encore ici la technique du triangle, step by step Nick est de plus en plus dans la merde.",
+      "summary": "",
+      "flashcards": [
+        {
+          "id": "moy54no6a30wvl3u1mj",
+          "question": "Qu'est-ce qui caractérise une ligne d'action efficace dans un scénario, selon l'approche de Gillian Flynn ?",
+          "answer": "Une ligne d'action efficace est descriptive, concise et pleine de personnalité. Elle doit permettre au lecteur de se représenter immédiatement la situation, sans ambiguïté ni superflu."
+        },
+        {
+          "id": "moy54no6ov8c3lwt5s",
+          "question": "Quel est le principe du 'triangle de scène' et comment structure-t-il une scène ?",
+          "answer": "Le triangle de scène consiste à ouvrir la scène sur un sujet général, à resserrer progressivement le focus, puis à terminer sur la ligne la plus importante. La dernière ligne est donc le véritable sujet de la scène."
+        },
+        {
+          "id": "moy54no6cf7wcm3exyk",
+          "question": "Pourquoi la dernière ligne d'une scène est-elle considérée comme la plus importante ?",
+          "answer": "Parce qu'elle représente le point culminant vers lequel toute la scène converge. C'est elle qui provoque un changement de situation ou une prise de conscience décisive chez le personnage."
+        },
+        {
+          "id": "moy54no6axieq6o4uf7",
+          "question": "Quel est le rôle dramatique du personnage de sous-intrigue dans un récit ?",
+          "answer": "Le personnage de sous-intrigue permet de définir le héros par comparaison et de faire avancer l'histoire. Il agit comme un miroir ou un avertissement, révélant ce qui attend le protagoniste s'il ne change pas de comportement."
+        },
+        {
+          "id": "moy54no6tn7j6y6ttw",
+          "question": "Dans Gone Girl, comment le personnage de l'ex-mari d'Amy remplit-il sa fonction de personnage de sous-intrigue ?",
+          "answer": "Il montre qu'Amy a un historique de manipulation et que ses victimes sont ceux qui cessent d'être l'homme qu'elle veut. Cela avertit Nick — et le spectateur — de ce qui l'attend, tout en définissant la stratégie de survie de Nick : devenir l'homme qu'Amy désire."
+        },
+        {
+          "id": "moy54no6jrr70gvmoe",
+          "question": "Comment la technique du triangle de scène est-elle utilisée sur l'ensemble du récit de Gone Girl, au-delà d'une seule scène ?",
+          "answer": "Flynn applique le triangle à l'arc narratif global : chaque scène resserre un peu plus l'étau autour de Nick, l'enfouissant progressivement dans une situation inextricable. La structure step by step renforce la tension dramatique de façon cumulative."
+        },
+        {
+          "id": "moy54no609czuo3wjhte",
+          "question": "Quelle est la différence entre une ligne d'action qui teste la compréhension et une qui se contente de décrire physiquement une action ?",
+          "answer": "Une ligne d'action efficace communique une intention ou une émotion derrière le geste, pas seulement le mouvement physique. Par exemple, 'Desi gives him nothing' exprime une posture psychologique, pas une simple gestuelle."
+        }
+      ],
+      "createdAt": "2025-01-01",
+      "updatedAt": "2025-01-01"
+    },
+    {
+      "id": "s3",
+      "title": "Le Diable s'habille en Prada — Les 10 premières pages",
+      "category": "structure",
+      "content": "### Le Diable s'habille en Prada - Les 10 premières pages\n\n*\"Il est essentiel d'introduire les composants de votre histoire dès le début. On a 10 pages pour attirer et retenir l'attention du lecteur.\"*\n\n#### Pages 1-2 : Introduction par Comparaison\n\nOn introduit Andy par **la comparaison** : ce qui établit précisément qui elle est et surtout ce qu'elle n'est pas.\n\nAndy se lève, miroir plein de buée. Jolie mais pas glamour, intelligente mais candide. En parallèle : 3-4 autres femmes qui se préparent. Tiroir avec 50 rouges à lèvres. Andy prend du baume à lèvres. Andy prend ses vêtements à l'arrache.\n\n**Résultat :** En 2 pages, on sait qu'Andy est jolie, intelligente, naïve, pas intéressée par la mode. Aucun de ces traits n'est écrit.\n\n#### Pages 3-4 : Exposition et Enjeux\n\n**Emily** : l'inverse d'Andy. Anxieuse, fashion. Pendant tout le film, elle sera le contraste d'Andy. Elle représente ce que deviendrait Andy si elle cédait à ce monde.\n\nEmily est guide et expose les enjeux :\n\n> \"Miranda a renvoyé les 2 dernières après 2 semaines. On a besoin de quelqu'un qui survive.\"\n> \"Un million de filles tueraient pour ce job.\"\n\n**Ce job a de la valeur.** La question dramatique est posée.\n\n#### Pages 5-6 : Présentation de l'Antagoniste via la Réaction des Autres\n\nLe rendez-vous de Miranda est annulé. Panique générale. Tout le monde court, nettoie. Andy observe. Miranda arrive dans le hall. Les gens se poussent. On comprend : respectée, crainte, importante.\n\nAu milieu du chaos, **Nigel** : calme, il contrôle. Il est là depuis longtemps. Ce sera le Mentor d'Andy.\n\n#### Pages 7-8 : Rencontrer l'Antagoniste\n\nMiranda en monologue 2 pages. Reproches et demandes accablantes.\n\n**2 choses à retenir :** Elle est experte en mode. Elle est impossible à impressionner.\n\n**Implication :** Andy, qui s'en fiche de la mode, va devoir impressionner Miranda.\n\n#### Pages 9-10 : Le Conflit\n\n> Miranda : \"Vous ne lisez pas Runway et vous n'avez pas de style.\"\n\nAndy s'attendait à être jugée sur ses mérites journalistiques. Elle est rejetée à cause de la mode.\n\nMais c'est parce qu'Andy est comme ça qu'elle peut répondre :\n\n> Andy : \"Ok, vous avez raison. Je m'y connais pas en mode. Mais je suis intelligente, j'apprends vite, et je travaillerai très dur.\"\n\n**Cette scène est une version miniature du film :** Andy essaie avec ce qu'elle connaît. Miranda rejette. Andy s'adapte. Miranda accepte.",
+      "summary": "",
+      "flashcards": [
+        {
+          "id": "moxcajxhfwjddkf7mku",
+          "question": "Pourquoi la technique de 'l'introduction par comparaison' est-elle efficace pour présenter Andy dans les 2 premières pages ?",
+          "answer": "Elle permet de définir le personnage sans jamais écrire explicitement ses traits : en montrant Andy en parallèle d'autres femmes plus glamours, le lecteur comprend qui elle est et ce qu'elle n'est pas, de façon visuelle et implicite."
+        },
+        {
+          "id": "moxcajxhb0wq4wpb7x",
+          "question": "Quel double rôle joue le personnage d'Emily dans le scénario ?",
+          "answer": "Emily est à la fois un outil d'exposition (elle explique les enjeux du job) et un personnage contrasté : elle représente ce qu'Andy pourrait devenir si elle se laissait absorber par le monde de la mode."
+        },
+        {
+          "id": "moxcajxhitvf3t3osjj",
+          "question": "Pourquoi Miranda est-elle introduite via la réaction des autres personnages avant même qu'on la voie vraiment ?",
+          "answer": "Cette technique montre son importance et l'effet qu'elle produit sur son entourage (panique, course, nettoyage frénétique) sans avoir à le dire explicitement, ce qui rend le personnage immédiatement imposant et crédible."
+        },
+        {
+          "id": "moxcajxh261b8iuftv2",
+          "question": "Quel est le rôle narratif de Nigel dans l'introduction, et pourquoi son calme est-il significatif ?",
+          "answer": "Nigel est présenté comme le futur Mentor d'Andy. Son calme au milieu du chaos signale qu'il maîtrise ce monde depuis longtemps, ce qui le distingue des autres et justifie son rôle de guide."
+        },
+        {
+          "id": "moxcajxholulpvfa3mo",
+          "question": "En quoi la scène des pages 9-10 entre Andy et Miranda fonctionne-t-elle comme une 'version miniature du film' ?",
+          "answer": "Elle reproduit en condensé la structure dramatique centrale : Andy tente une approche (ses mérites journalistiques), Miranda rejette, Andy s'adapte (elle mise sur son intelligence et sa capacité à apprendre), Miranda accepte. C'est le cycle du film entier en une scène."
+        },
+        {
+          "id": "moxcajxhut368u15rzs",
+          "question": "Quelle est la fonction dramatique de la réplique 'Un million de filles tueraient pour ce job' ?",
+          "answer": "Elle établit la valeur de l'enjeu dès les premières pages : le poste est rare et désirable, ce qui hausse les stakes et donne du poids à la question dramatique centrale — Andy va-t-elle réussir à obtenir et conserver ce job ?"
+        },
+        {
+          "id": "moxcajxhtdbonn3d4m",
+          "question": "Selon le cours, quel est l'objectif fondamental des 10 premières pages d'un scénario ?",
+          "answer": "Introduire les composants essentiels de l'histoire (personnage principal, antagoniste, enjeux, question dramatique) de façon à attirer et retenir l'attention du lecteur avant qu'il ne décroche."
+        }
+      ],
+      "createdAt": "2025-01-01",
+      "updatedAt": "2026-05-08T19:57:36.877Z"
+    },
+    {
+      "id": "e1",
+      "title": "Exercice 1 — Intrigue des personnages",
+      "category": "exercices",
+      "content": "### Exercice 1 — Intrigue des personnages\n\n*Référence : Good Will Hunting — Chapitre Psychologie des personnages*\n\n**Objectif :** Un dialogue de 10 à 15 répliques. Une conversation ordinaire qui dérive vers quelque chose de trop proche. La défense s'active et **tient**. Le mur ne tombe pas. Ce n'est pas encore la catharsis.\n\n---\n\n#### Réalisation : Martin et Juliane à la piscine\n\nMartin attend devant l'entrée. Juliane arrive en courant.\n\n> Martin : \"Hey !\"\n> Juliane : \"Je suis vraiment désolée.\" *(essoufflée)*\n> Martin : \"Aucun souci, il fait beau, le ciel est bleu, haha.\" *(sourit, ça ne prend pas)* \"Ça va ?\"\n> Juliane : \"Alors on y va ?\"\n\nLes deux rentrent, se séparent, se retrouvent à la sortie. Martin attend.\n\nMartin pour lui-même : *\"Elle en met du temps.\"*\n\nJuliane sort, les mains cachant ses rondeurs.\n\n> Martin : \"Je suis là, Juliane !\" *(voit que quelque chose ne va pas)* \"Ça va ?\"\n> Juliane : \"Oui oui, me saoule pas.\" *(silence)* \"Bon, on va à l'eau !\"\n\nDans l'eau. Ils sortent pour bronzer. Juliane jette sa serviette sur elle.\n\n> Martin : \"Meuf, moi ton corps je l'aime bien. Je veux le voir — et le soleil aussi !\"\n\nJuliane est surprise mais ne dit rien. Elle ouvre progressivement la serviette. Des rires au loin. Juliane croit que c'est pour elle.\n\n> Juliane : \"Tu as des goûts de merde.\"\n> Martin : \"Tu réagis comme ça parce que tu as honte. Y'a pas de quoi avoir honte.\"\n> Juliane : \"Je savais que j'aurais pas dû venir.\"\n\nElle se lève et prend la fuite.\n\n---\n\n**Ce que ça démontre :** La défense s'active au moment de vulnérabilité. Face à une bienveillance explicite, le mécanisme tient quand même. Ce n'est pas encore la catharsis.",
+      "summary": "",
+      "flashcards": [],
+      "createdAt": "2025-01-01",
+      "updatedAt": "2025-01-01"
+    },
+    {
+      "id": "e2",
+      "title": "Exercice 2 — Le triangle inversé",
+      "category": "exercices",
+      "content": "### Exercice 2 — Le triangle inversé\n\n*Référence : Gone Girl — Chapitre Structure*\n\n**Objectif :** Une scène de 10-15 lignes. Sujet posé en ouverture, développé en escalier, fermé sur la ligne la plus importante.\n\n---\n\n#### Réalisation : Juliane au téléphone avec sa mère\n\nJuliane rentre de la piscine. Sa mère l'appelle.\n\n> Juliane : \"Allô maman ? Pourquoi tu m'appelles ?\"\n> Mère : \"Je viens de voir ton compte en banque.\" *(Ouverture)*\n\n> Juliane : \"T'es sérieuse ? Je t'avais dit d'arrêter de faire ça.\"\n> Mère : \"C'est pas la question. Tu es dans le rouge depuis plusieurs mois. On s'inquiète.\" *(Inquiétude)*\n\n> Juliane : \"Bordel, c'est pas tes affaires.\"\n> Mère : \"Ton père a regardé en détail. Tu sors énormément, alcool, soirées... C'est ça ta vie ?\" *(Accusation)*\n\n*Un silence gorgé de honte, comme une éponge trop pleine. Ses larmes montent.*\n\n> Juliane : \"Je... je...\"\n> Mère : \"Est-ce que ça va ? Tu peux m'en parler.\"\n> Juliane : \"Parler c'est pas toujours la solution, Maman. Ne m'appelle plus.\" *(Fin et changement)*\n\nJuliane raccroche. Elle pleure, téléphone encore en main.\n\n---\n\n**Ce que ça démontre :** Sujet (finances) → escalier (inquiétude, accusation, confrontation émotionnelle) → fermeture sur le changement. Juliane coupe le lien plutôt que de s'ouvrir.\n\n**Prolongement possible :** Faire intervenir une grande sœur pour montrer à Juliane où elle se dirige si elle continue.",
+      "summary": "",
+      "flashcards": [],
+      "createdAt": "2025-01-01",
+      "updatedAt": "2025-01-01"
+    },
+    {
+      "id": "e3",
+      "title": "Exercice 3 — Le fantôme et la ville",
+      "category": "exercices",
+      "content": "### Exercice 3 — Le fantôme et la ville\n\n*Référence : Seven et True Detective — Chapitre Personnage Fantôme*\n\n**Objectif :** Ouverture d'un thriller. Monologue de 15-20 lignes. La caméra avance vers un personnage de dos. Ce qu'il dit sur la ville, c'est ce qu'il dit sur lui.\n\n**Thème :** *On ne quitte pas ce que la ville a fait de toi, mais on peut choisir de ne pas en mourir.*\n\n---\n\n#### Réalisation : La femme au cimetière\n\nIl pleut. Une scène pas triste mais sale. Des bières posées ici et là, un SDF adossé contre une tombe. Les tombes sont mal entretenues, des ordures partout. La caméra avance progressivement vers une femme de dos.\n\n> Femme : \"Je te jure, j'ai arrêté !\"\n\n> Femme : \"Cette putain de ville nous a détruits. Avec ces connards qui pensent qu'à baiser. Y'en a pas un pour rattraper les autres.\"\n\n*Silence.*\n\n> Femme : \"Tu as raison. Tu as toujours été là pour les défoncés, ces enflures... *(rire)* Tu te rappelles la fois où t'as broyé les couilles d'un mec parce qu'il t'avait payé un verre ? Putain, on avait rigolé.\"\n\n*Silence. La caméra continue.*\n\n> Femme : \"J'espère que tu t'y plairas là-bas...\"\n\n*Un homme crie au loin et klaxonne.*\n\n> Femme : \"FERME LA !\"\n\nElle sort un flingue sans le regarder et tire.\n\n> Femme : \"PTITE BITE VA !\"\n\n*Elle inspire, expire. Retrouve un état stable.*\n\n> Femme : \"On va bientôt se rejoindre, t'inquiète pas.\"\n\nLa caméra pivote. On voit une pelle dans ses mains.\n\n> Femme : \"Allez je te laisse. Bisous, petite pute.\"\n\nElle embrasse devant elle. Elle commence à creuser. CUT.\n\n---\n\n**Twist :** Elle est au téléphone depuis le début. Les silences = elle écoutait. Elle parle à la meilleure amie de la protagoniste.\n\n**Dispositif du flingue à blanc :** Promesse de ne plus tuer. Le flingue à blanc est le symbole. Recontextualisé en relecture : la retenue déguisée en indifférence.\n\n**Triple lecture de \"on va bientôt se rejoindre\" :**\n- Mort en général\n- Elle enterre quelqu'un vivant\n- Elle parle à celle à qui elle a fait la promesse\n\n> \"On peut devenir quelqu'un d'autre pour quelqu'un qu'on aime. Je sais pas encore si c'est vrai, mais je suis en train d'essayer.\"",
+      "summary": "",
+      "flashcards": [],
+      "createdAt": "2025-01-01",
+      "updatedAt": "2025-01-01"
+    },
+    {
+      "id": "e4",
+      "title": "Exercice 4 — Décrire un personnage par comparaison",
+      "category": "exercices",
+      "content": "### Exercice 4 — Décrire un personnage par comparaison\n\n*Référence : Le Diable s'habille en Prada — Chapitre Structure*\n\n**Critère :** Quelqu'un lit ces 2 pages sans contexte et peut décrire le protagoniste en 3 traits, sans qu'aucun ne soit écrit explicitement.\n\n**Thème :** relation en couple. **Les 3 traits d'Eddy :** romantique, maladroit, seul.\n\n---\n\n*INT — Nuit.* Eddy ouvre un tiroir plein de bougies. Il en sort quelques-unes, lumière tamisée. Il éparpille des pétales de rose pour former un chemin. En se relevant, il se cogne la tête contre le bas de son bar.\n\n*Cut.* Julien sur un canapé, bière à la main, regarde la télé. Sa femme lui ramène une deuxième bière. Il la regarde à peine.\n\n*Cut.* Eddy met un gant pour sortir du four un plat et se brûle les doigts. Il boit un grand verre d'eau d'une traite.\n\n*Cut.* John ivre. Sa femme le porte jusqu'au lit. Elle se couche machinalement à côté.\n\n*Cut.* Eddy place avec attention les petits-fours sur une assiette. Il redresse les serviettes. Pas très à l'aise, mais concentré.\n\n*Cut.* Mickaël sort une pizza du micro-ondes, regarde son téléphone. Jette une assiette sur la table. S'assoit sans regarder sa femme.\n\n*Cut.* Eddy renverse du vin sur lui. *Cut rapide.* Julien renverse de la bière, utilise le gilet de sa femme pour s'essuyer.\n\n*Cut.* Eddy repasse une chemise propre. Semble rassuré.\n\n*Cut long.* Eddy assis à table. La bouteille de vin est ouverte. Il regarde son téléphone : 22h30. La chaise en face de lui est vide. Il est seul.\n\n*Cut.* La femme de Julien se blottit contre lui. La femme de John se met contre lui. Mickaël et sa femme mangent leur pizza.\n\n*Cut.* Eddy baisse la tête et referme la bouteille de vin.\n\n---\n\n**Résultat :** Les 3 traits lisibles dans les gestes, jamais écrits.\n- Romantique et méticuleux : pétales de rose, petits-fours placés avec soin, serviettes redressées\n- Maladroit mais persévérant : doigts brûlés, vin renversé, chemise repassée\n- Seul malgré tout : chaise vide, bouteille refermée\n\n**Point à corriger :** Eddy n'est pas ancré comme protagoniste assez tôt. Solution : lui donner un détail d'attachement dans le premier plan avant de couper sur les autres.",
+      "summary": "",
+      "flashcards": [],
+      "createdAt": "2025-01-01",
+      "updatedAt": "2025-01-01"
+    }
+  ],
+  "exportedAt": "2026-05-09T09:39:28.115Z"
+}
